@@ -25,13 +25,11 @@
 
 ###  TECNOLOGIAS EM APERFEIÇOAMENTO:
 
-#### Apache Spark & Databricks
+#### Python para Data Engineering, Apache Spark & Databricks
 - Processamento distribuído de datasets governamentais
 - Implementação de transformações otimizadas vs. pandas 
   tradicional
 - Certificação: Data Engineering on Databricks Community
-
-#### Python para Data Engineering
 - Desenvolvimento de pipelines de ETL com tratamento de 
   exceções e logging
 - Bibliotecas: pandas, PySpark, requests, SQLAlchemy
