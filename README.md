@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Engenheiro de Dados em formação. Sólida base em SQL (queries complexas, JOINs, window functions), Python (requests, pandas, web scraping) PostgreSQL, Docker, GIT e Linux. Experiência prática com pipelines de dados e análise de dados públicos (OSINT).<br>
+<p align="left">Engenheiro de Dados em formação. Sólida base em SQL (queries complexas, JOINs, window functions), Python (requests, pandas, web scraping) PostgreSQL, Docker, GIT e Linux. Experiência prática com pipelines de dados e análise de dados em fontes abertas (OSINT).<br>
 
 ##
 
