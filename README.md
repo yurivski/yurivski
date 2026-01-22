@@ -34,7 +34,7 @@
   exceções e logging
 - Bibliotecas: pandas, PySpark, requests, SQLAlchemy
 
-#### SQL Avançado & Otimização
+#### SQL e Otimização
 - Queries complexas: window functions, CTEs recursivas, 
   subqueries correlacionadas
 - Otimização: índices, explain analyze, query planning
