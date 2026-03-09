@@ -1,63 +1,33 @@
-
-<h1 align="center">Yuri Pontes</h1>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/yuri-pontes-4ba24a345/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-  </a>
-  <a href="mailto:yuripontes.cont@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-  </a>
-  <a href="https://github.com/yurivski?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-100000?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Portfolio" />
-  </a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Yuri+Pontes;Data+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/yuri-pontes-4ba24a345/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+</a>&nbsp;
+<a href="mailto:yuripontes.cont@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
+</a>&nbsp;
+<a href="https://github.com/yurivski?tab=repositories" target="_blank">
+  <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white" height="28" alt="Repos" />
+</a>
+
 </div>
 
-###
+---
 
-<h3 align="left">Sobre mim:</h3>
+**Especializando em Engenheiro de Dados.**   
+>Foco atual em qualidade de dados, automação de pipelines e projetos com dados abertos.
 
-###
-
-<p align="left">Engenheiro de Dados em formação. Sólida base em SQL (queries complexas, JOINs, window functions), Python (requests, pandas, web scraping) PostgreSQL, Docker, GIT e Linux. Experiência prática com pipelines de dados e análise de dados em fontes abertas (OSINT).<br>
-
-##
-
-###  TECNOLOGIAS EM APERFEIÇOAMENTO:
-
-#### Python para Data Engineering, Apache Spark & Databricks
-- Processamento distribuído de datasets governamentais
-- Implementação de transformações otimizadas vs. pandas 
-  tradicional
-- Certificação: Data Engineering on Databricks Community
-- Desenvolvimento de pipelines de ETL com tratamento de 
-  exceções e logging
-- Bibliotecas: pandas, PySpark, requests, SQLAlchemy
-
-#### SQL e Otimização
-- Queries complexas: window functions, CTEs recursivas, 
-  subqueries correlacionadas
-- Otimização: índices, explain analyze, query planning
-- Experiência prática: PostgreSQL, SQLite, Docker
-
-###
-
-<h3 align="center">Linguagens e Ferramentas</h3>
-
-###
-
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/SQLite.svg" height="50" alt="sqlite logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" height="50" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Docker.svg" height="50" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Linux-Dark.svg" height="50" alt="linux logo"  />
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" height="50" alt="git logo"  />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/dbrx-color.png" height="50" alt="databrick logo"  />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />&nbsp;
+<img src="https://img.shields.io/badge/Rio_de_Janeiro-BR-009739?style=flat" alt="Location" />
 </div>
 
-##
+### Linguagens & Ferramentas
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=py,postgres,sqlite,docker,linux,git&theme=dark" alt="Tech Stack" />
