@@ -21,9 +21,6 @@
 
 <img src="img/dwigth.jpg" align="right" width="220" style="margin-left: 20px; border-radius: 15px;">
 
-<br>
-
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
