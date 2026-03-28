@@ -21,10 +21,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics.svg
+          filename: /metrics/github-metrics.svg
           base: header, activity, community, repositories
           base_indepth: yes
           config_timezone: America/Sao_Paulo
@@ -45,10 +45,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-languages.svg
+          filename: /metrics/github-metrics-languages.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -69,10 +69,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-habits.svg
+          filename: /metrics/github-metrics-habits.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -92,10 +92,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-activity.svg
+          filename: /metrics/github-metrics-activity.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -114,10 +114,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-calendar.svg
+          filename: /metrics/github-metrics-calendar.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -132,10 +132,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-followup.svg
+          filename: /metrics/github-metrics-followup.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
@@ -151,10 +151,10 @@ jobs:
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics_token }}
           user: yurivski
           template: classic
-          filename: github-metrics-achievements.svg
+          filename: /metrics/github-metrics-achievements.svg
           base: ""
           config_timezone: America/Sao_Paulo
           config_display: large
