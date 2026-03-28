@@ -1,0 +1,69 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: General Stats
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.metrics_token }}
+          user: yurivski
+          template: classic
+          filename: github-metrics.svg
+          base: header, activity, community, repositories
+          base_indepth: yes
+          config_timezone: America/Sao_Paulo
+          config_display: large
+          
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+      - name: Activity Graph
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.metrics_token }}
+          user: yurivski
+          template: classic
+          filename: github-metrics-activity.svg
+          base: ""
+          config_timezone: America/Sao_Paulo
+          
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+
+      - name: Full Year Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.metrics_token }}
+          user: yurivski
+          template: classic
+          filename: github-metrics-calendar.svg
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
