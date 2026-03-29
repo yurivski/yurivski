@@ -20,6 +20,7 @@
 
 *Desenvolvo pipelines e ferramentas com dados abertos, com <br> foco em qualidade de dados e automação. Sou entusiasta de <br> Cyber Security, o que se reflete em projetos com atenção a <br> privacidade e proteção de dados pessoais.*
 
+<br>
 
 <br>
 
