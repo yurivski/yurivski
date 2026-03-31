@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Banner](/img/banner.gif)](https://www.linkedin.com/in/yuri-pontes-4ba24a345/)
+[![Banner](/img/yuri_banner.gif)](https://www.linkedin.com/in/yuri-pontes-4ba24a345/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-pontes-4ba24a345/)
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuripontes.cont@gmail.com)
