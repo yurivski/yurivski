@@ -17,20 +17,20 @@ svg { background-color: #0d1117 !important; }</style>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 167mb of code in 9788 edited files across 274 commits</small>
+                <small>estimation from 168mb of code in 9842 edited files across 291 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="602.7427340543426" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="602.7427340543426" y="0" width="130.42789890434895" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="733.1706329586915" y="0" width="75.58600805497574" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="808.7566410136673" y="0" width="37.685165285443425" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="846.4418062991107" y="0" width="33.68283000754017" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="880.1246363066508" y="0" width="17.656409893843787" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="897.7810462004945" y="0" width="11.841991159553903" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="909.6230373600484" y="0" width="10.376962639951461" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.0041477605224" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="603.0041477605224" y="0" width="130.3204288978222" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="733.3245766583447" y="0" width="75.52372668076639" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="808.848303339111" y="0" width="37.65411345532724" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="846.5024167944382" y="0" width="33.655076022456015" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="880.1574928168942" y="0" width="17.641861361647297" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="897.7993541785415" y="0" width="11.832233593282437" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="909.631587771824" y="0" width="10.368412228175979" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,9 +42,9 @@ svg { background-color: #0d1117 !important; }</style>
                                 Python
                             </div>
                             <small>
-                                <div>2.81m lines</div>
-                                <div>90.2 MB</div>
-                                <div>65.52%</div>
+                                <div>2.82m lines</div>
+                                <div>90.3 MB</div>
+                                <div>65.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,7 +72,7 @@ svg { background-color: #0d1117 !important; }</style>
                             <small>
                                 <div>16.7k lines</div>
                                 <div>19.5 MB</div>
-                                <div>14.18%</div>
+                                <div>14.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -100,7 +100,7 @@ svg { background-color: #0d1117 !important; }</style>
                             <small>
                                 <div>9.63k lines</div>
                                 <div>11.3 MB</div>
-                                <div>8.22%</div>
+                                <div>8.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -128,7 +128,7 @@ svg { background-color: #0d1117 !important; }</style>
                             <small>
                                 <div>3.32k lines</div>
                                 <div>5.64 MB</div>
-                                <div>4.1%</div>
+                                <div>4.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
