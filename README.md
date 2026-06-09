@@ -39,7 +39,7 @@
 ╠═══════════════════╬═════════════════════════════════════════════╣
 ║  QUEST            ║  Building the future, one commit at a time  ║
 ║  PHILOSOPHY       ║  "The pipeline is the path of light;        ║
-║                   ║   security is the sentinel of chaos."       ║
+║                   ║   security is the sentinel against chaos."  ║
 ╚═══════════════════╩═════════════════════════════════════════════╝
 ```
 </div>
