@@ -17,20 +17,20 @@ svg { background-color: #0d1117 !important; }</style>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <small>estimation from 170mb of code in 10128 edited files across 380 commits</small>
+                <small>estimation from 170mb of code in 10194 edited files across 383 commits</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.1968785947807" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="603.1968785947807" y="0" width="130.0973614473881" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="733.2942400421689" y="0" width="75.75795606219832" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="809.0521961043671" y="0" width="37.56924675114805" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="846.6214428555152" y="0" width="33.57922254673112" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="880.2006654022463" y="0" width="17.602099261521754" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="897.802764663768" y="0" width="11.805565519704459" height="8" fill="#fedf5b"/>
-                    <rect mask="url(#languages-bar)" x="909.6083301834725" y="0" width="10.391669816527468" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="603.4970599311912" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="603.4970599311912" y="0" width="129.9712472251187" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="733.4683071563098" y="0" width="75.68451755734928" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="809.1528247136591" y="0" width="37.53282774708406" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="846.6856524607432" y="0" width="33.54667140588724" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="880.2323238666305" y="0" width="17.58503607873328" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="897.8173599453638" y="0" width="11.794121400489407" height="8" fill="#fedf5b"/>
+                    <rect mask="url(#languages-bar)" x="909.6114813458531" y="0" width="10.388518654146935" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -42,9 +42,9 @@ svg { background-color: #0d1117 !important; }</style>
                                 Python
                             </div>
                             <small>
-                                <div>2.82m lines</div>
-                                <div>90.6 MB</div>
-                                <div>65.56%</div>
+                                <div>2.83m lines</div>
+                                <div>90.7 MB</div>
+                                <div>65.6%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -72,7 +72,7 @@ svg { background-color: #0d1117 !important; }</style>
                             <small>
                                 <div>17.1k lines</div>
                                 <div>19.5 MB</div>
-                                <div>14.14%</div>
+                                <div>14.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -139,7 +139,7 @@ svg { background-color: #0d1117 !important; }</style>
                                 JSON
                             </div>
                             <small>
-                                <div>37.5k lines</div>
+                                <div>37.6k lines</div>
                                 <div>1.56 MB</div>
                                 <div>1.13%</div>
                             </small>
