@@ -17,6 +17,6 @@
 
 <div align="center">
 
-<img src="img/yuri_terminal.svg" alt="terminal" width="100%">
+<img src="img/yurivski.svg" alt="terminal" width="100%">
 
 </div>
