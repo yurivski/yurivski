@@ -47,10 +47,10 @@
 <text x="501.0" y="780" text-anchor="middle" class="fg" xml:space="preserve">╔═════════════════════════════════════════════════════════════════╗</text>
 <text x="501.0" y="796" text-anchor="middle" class="fg" xml:space="preserve">║         PORT          SERVICE               STATUS              ║</text>
 <text x="501.0" y="812" text-anchor="middle" class="fg" xml:space="preserve">╠═════════════════════════════════════════════════════════════════╣</text>
-<text x="501.0" y="828" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Twitter/X             ● DISCONNECTED      ║</text>
+<text x="501.0" y="828" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Twitter/X             ○ DISCONNECTED      ║</text>
 <text x="501.0" y="844" text-anchor="middle" class="fg" xml:space="preserve">║         :443          LinkedIn              ● CONNECTED         ║</text>
-<text x="501.0" y="860" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Instagram             ● DISCONNECTED      ║</text>
-<text x="501.0" y="876" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Discord               ● DISCONNECTED      ║</text>
+<text x="501.0" y="860" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Instagram             ○ DISCONNECTED      ║</text>
+<text x="501.0" y="876" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Discord               ○ DISCONNECTED      ║</text>
 <text x="501.0" y="892" text-anchor="middle" class="fg" xml:space="preserve">║         :443          Dev.to                ● CONNECTED         ║</text>
 <text x="501.0" y="908" text-anchor="middle" class="fg" xml:space="preserve">╚═════════════════════════════════════════════════════════════════╝</text>
 </svg>
